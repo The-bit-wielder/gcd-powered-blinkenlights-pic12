@@ -1,4 +1,4 @@
-# Euclidean PWM
+# Euclidean PWM Blinken Lights
 
 Generates PWM duty cycles using the Greatest Common Divisor algorithm because why use timers when you can suffer?
 
