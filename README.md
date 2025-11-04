@@ -21,6 +21,13 @@ Generates PWM duty cycles using the Greatest Common Divisor algorithm because wh
 - **RAM usage:** Yes
 - **CPU cycles:** All of them
 
+## Installation
+1. Question your life choices
+2. Copy `CalcGCD()` and `CalcPWM_Ratio()` into your project
+3. Watch your RAM usage skyrocket
+4. Wonder why the LED blinks with mathematical purity
+5. Accept that this is your life now
+
 ## Real-World Applications
 - Impressing mathematicians at parties
 - Making embedded engineers cry
