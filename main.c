@@ -5,12 +5,10 @@
 #pragma config BOREN = OFF      // Brown-out Detect Enable bit (BOD disabled)
 #pragma config CP = OFF         // Code Protection bit (Program Memory code protection is disabled)
 #pragma config CPD = OFF        // Data Code Protection bit (Data memory code protection is disabled)
-
 #define _XTAL_FREQ 4000000
 #define PWM_Percent 12
 
 #include <xc.h>
-
 uint8_t nextState;
 
 uint8_t CalcGCD(int a, int b) {
