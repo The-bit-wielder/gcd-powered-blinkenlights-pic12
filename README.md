@@ -14,3 +14,6 @@ Generates PWM duty cycles using the Greatest Common Divisor algorithm because wh
 - Willingness to ignore all best practices  
 - At least 64 bytes of RAM (preferably 20,000+)  
 - A soul you no longer need
+
+## PS:
+This code was made for a PIC12F629 , but if it runs on that... well it runs on a fried potato.
